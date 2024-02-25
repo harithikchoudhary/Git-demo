@@ -1,2 +1,3 @@
 Hi,
 Welcome to Git-Tutorial
+Here , we will get to know about the merging and branching
