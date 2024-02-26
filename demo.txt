@@ -1,3 +1,4 @@
 Hi,
 Welcome to Git-Tutorial
 Here , we will get to know about the cloning and pulling
+Git clone copies all files to the local machine, while git pull only copies the modified files to the local machine
